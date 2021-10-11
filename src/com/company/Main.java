@@ -6,9 +6,9 @@ public class Main {
 	// write your code here
         System.out.println("First Example");
 
-        int january = 15; // 15 mil
-        int march = 17; // 17 mil
-        int february = 23; // 23 mil
+        int january = 15; // fifteen thousand
+        int march = 17; // seventeen thousand
+        int february = 23; // twenty three thousand
 
         // calculate the total average for the quarter
         int total = january + march + february;
